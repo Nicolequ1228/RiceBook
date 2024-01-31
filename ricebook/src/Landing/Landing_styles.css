@@ -1,0 +1,19 @@
+.navbar-brand {
+    margin-left: 2%;
+}
+table{
+    width: 100%;
+}
+
+#regisBoard {
+    margin-top: 10%;
+    margin-left: 12%;
+    margin-right: 10%;
+}
+#loginBoard {
+    margin-left: 10%;
+    margin-right: 12%;
+}
+button {
+    margin: 2%;
+}

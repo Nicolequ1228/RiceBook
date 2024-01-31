@@ -1,0 +1,37 @@
+#profileBoard{
+    width: 90%;
+    margin: 5%;
+}
+#avatar{
+    height: 10%;
+}
+#newPostBoard {
+    width:70%;
+    margin: 10%;
+}
+.editTextArea {
+    height: 100px!important;
+}
+#postText{
+    height: 100%
+}
+#followingBoard{
+    margin-left: 10%;
+}
+#postBoard{
+    margin-right: 3%;
+}
+#userCard{
+    width: 80%;
+    margin-bottom: 10%;
+}
+#userCardImg{
+    height: 50%;
+}
+#pagination{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 10vh;
+}
+
